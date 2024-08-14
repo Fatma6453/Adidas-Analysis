@@ -60,4 +60,5 @@ Outlet sales are consistent but lag behind other methods. Consider evaluating ou
 Seasonal Promotions:
 
 The peak sales period during mid-year indicates an opportunity for strategic promotions during these months to maximize revenue. Ensure inventory levels are adequate to meet increased demand during these periods.
-
+# DASHBOARD
+![Screenshot 2024-08-14 030244](https://github.com/user-attachments/assets/a540f881-56c0-4ad9-b239-67b9f0f98d16)
