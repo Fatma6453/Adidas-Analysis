@@ -12,8 +12,10 @@
 
   ### Overview
   These insights and recommendations are aimed at maximizing revenue, optimizing operations, and addressing any areas of concern identified through the data.
+  
   ### Tool
   PowerBI
+  
   ### Analysis
 
 Overall Sales Performance:
